@@ -209,6 +209,7 @@ defmodule SaladUI do
       import SaladUI.Sidebar
       import SaladUI.Skeleton
       import SaladUI.Slider
+      import SaladUI.Sonner
       import SaladUI.Switch
       import SaladUI.Table
       import SaladUI.Tabs
