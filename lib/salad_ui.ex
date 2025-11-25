@@ -188,6 +188,7 @@ defmodule SaladUI do
       import SaladUI.Chart
       import SaladUI.Checkbox
       import SaladUI.Collapsible
+      import SaladUI.Combobox
       import SaladUI.Dialog
       import SaladUI.DropdownMenu
       import SaladUI.Form
